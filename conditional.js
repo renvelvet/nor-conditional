@@ -3,11 +3,14 @@ let divisi = "tech";
 let tugas;
 
 if (divisi == 'marketing') {
-    tugas = "Menganalisis pasar"
+    tugas = "Menganalisis pasar";
+    console.log(tugas)
 } else if (divisi == 'tech') {
-    tugas = "Mengatur segala hal yang berkaitan dengan IT"
+    tugas = "Mengatur segala hal yang berkaitan dengan IT";
+    console.log(tugas);
 } else if (divisi == 'operasional') {
-    tugas = "Memastikan operasional berjalan dengan lancar"
+    tugas = "Memastikan operasional berjalan dengan lancar";
+    console.log(tugas)
 } else {
     console.log("Tidak ada divisinya")
 }
