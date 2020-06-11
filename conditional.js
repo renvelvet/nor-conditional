@@ -1,5 +1,5 @@
 // Soal no. 1
-let divisi = "Tech";
+let divisi = "tech";
 let tugas;
 
 if (divisi == 'marketing') {
