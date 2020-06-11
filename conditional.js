@@ -1,5 +1,5 @@
 // Soal no. 1
-let divisi;
+let divisi = "Tech";
 let tugas;
 
 if (divisi == 'marketing') {
@@ -8,6 +8,8 @@ if (divisi == 'marketing') {
     tugas = "Mengatur segala hal yang berkaitan dengan IT"
 } else if (divisi == 'operasional') {
     tugas = "Memastikan operasional berjalan dengan lancar"
+} else {
+    console.log("Tidak ada divisinya")
 }
 
 // Soal no. 2
